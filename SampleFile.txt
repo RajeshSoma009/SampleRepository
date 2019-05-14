@@ -3,3 +3,5 @@ Volkswagen
 BWM
 Honda
 VCCI
+GMF
+GMFC
